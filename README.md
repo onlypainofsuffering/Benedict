@@ -1,4 +1,4 @@
-<h1 align="center">Halo 👋, Saya Benidictus</h1>
+<h1 align="center">Sup, Im Benidictus</h1>
 
 <h3 align="center">
 Frontend Developer • Next.js Enthusiast • UI/UX Lover
@@ -10,7 +10,7 @@ Frontend Developer • Next.js Enthusiast • UI/UX Lover
 
 ---
 
-<h2 align="center">🚀 Tentang Saya</h2>
+<h2 align="center">About Me</h2>
 
 <p align="center">
 💻 Saya adalah seorang <b>Frontend Developer</b> yang suka membuat tampilan website modern, responsive, dan interaktif.
