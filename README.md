@@ -54,11 +54,6 @@ Frontend Developer • Next.js Enthusiast • UI/UX Lover
 ---
 
 
----
-
-
----
-
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
